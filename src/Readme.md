@@ -6,4 +6,5 @@
 2. I was a mentor in Technovation Challenge competion 2017 year
 3. I won scholarship of IT Ministry in 2019 year
 4. I won in the competion "100 best ideas" in 2019 year
+5. I worked as junior android developer
 
