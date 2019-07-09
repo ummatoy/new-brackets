@@ -7,4 +7,5 @@
 3. I won scholarship of IT Ministry in 2019 year
 4. I won in the competion "100 best ideas" in 2019 year
 5. I worked as junior android developer
+### About me
 
